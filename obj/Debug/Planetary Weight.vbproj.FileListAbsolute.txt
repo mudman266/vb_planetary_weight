@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary_Weight.frmMain.resources
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary_Weight.Resources.resources
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter5\Planetary Weight\bin\Debug\Planetary Weight.exe.config
+C:\School\CSC-139\Chapter5\Planetary Weight\bin\Debug\Planetary Weight.exe
+C:\School\CSC-139\Chapter5\Planetary Weight\bin\Debug\Planetary Weight.pdb
+C:\School\CSC-139\Chapter5\Planetary Weight\bin\Debug\Planetary Weight.xml
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.exe
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.xml
+C:\School\CSC-139\Chapter5\Planetary Weight\obj\Debug\Planetary Weight.pdb
